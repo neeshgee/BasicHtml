@@ -1,0 +1,79 @@
+body {
+  background-image: url(http://www.pinyourclient.com/wp-content/uploads/2015/01/9455413519_javascript.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 400px 400px;
+  background-color: white;
+}
+
+
+h1 {
+  color: yellow;
+  text-align: center;
+  font-family: fantasy;
+}
+
+h3 {
+  color: purple;
+  text-align: center;
+}
+
+p {
+  color: black;
+  text-align: left;
+  font-weight: normal;
+  font-size: 26px;
+
+}
+para2 {
+  color: black;
+  text-align: left;
+  font-weight: bolder;
+  font-size: 26px;
+
+}
+
+para3 {
+  color: black;
+  text-align: left;
+  font-weight: normal;
+  font-size: 26px;
+
+}
+
+footer {
+  color: purple;
+  text-align: center;
+}
+
+#web {
+  color: purple;
+  font-style: italic;
+
+}
+
+.design {
+  color: blue;
+  font-weight: bold;
+}
+
+a:link {
+  color: yellow;
+  font-weight: bolder;
+}
+
+a:visited {
+  color: black;
+  cursor: crosshair;
+}
+
+a:hover {
+  color: purple;
+  cursor: crosshair;
+}
+
+table {
+  border width: 2px;
+  border-color: purple;
+  border-style: dashed;
+}
