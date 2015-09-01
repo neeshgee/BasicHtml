@@ -21,7 +21,7 @@ h3 {
 p {
   color: black;
   text-align: left;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 26px;
 
 }
@@ -34,9 +34,9 @@ para2 {
 }
 
 para3 {
-  color: black;
+  color: purple;
   text-align: left;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 26px;
 
 }
@@ -72,8 +72,15 @@ a:hover {
   cursor: crosshair;
 }
 
-table {
-  border width: 2px;
-  border-color: purple;
-  border-style: dashed;
+ul {
+  color: purple;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+p::first-line {
+  font-style: italic;
+  font-family: fantasy;
+  color: black;
+
 }
